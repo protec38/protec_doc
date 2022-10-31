@@ -45,17 +45,62 @@ La qualité de membre de l'association se perd :
 Le Conseil d'administration dirige l'association. 
 
 ### Article 10
-Le Conseil d'administration est composée de neuf membres élus.
+Le Conseil d'administration est composée de neuf administrateurs.
 
 Les responsables des antennes de l'association assistent aux réunions du conseil d'Administration. Ils ne prennent pas part aux scrutins. 
 
 ### Article 11
-Les membres du conseil d'administration sont élus par l'Assemblée générale au scrutin plurinominal majoritaire à un tour. En cas d'égalité, les candidats sont départagés par tirage au sort. 
+Les administrateurs sont élus par l'Assemblée générale au scrutin plurinominal majoritaire à un tour. En cas d'égalité, les candidats sont départagés par tirage au sort.
+
+Le règlement intérieur précise les modalités de l'élection des administrateurs.
 
 ### Article 12
-La durée du mandat de membre du conseil d'Administration est de un an. Si l'Assemblée générale ordinaire ne pouvait être réunie avant l'expiration du mandat, celui-ci serait prolongé jusqu'à la date de la prochaine Assemblée générale ordinaire.
+La durée du mandat des administrateurs est de un an. Si l'Assemblée générale ordinaire ne pouvait être réunie avant l'expiration du mandat, celui-ci serait prolongé jusqu'à la date de la prochaine Assemblée générale ordinaire.
 
-Le mandat de membre du Conseil d'administration est renouvelable.
+Le mandat d'administrateur est renouvelable.
 
 ### Article 13
 Sont éligibles au Conseil d'administration les membres actifs de l'association ayant plus de 6 mois d'ancienneté au jour de l'élection.
+
+### Article 14
+Le mandat d'un administrateur peut prendre fin : 
+* par démission, remise par écrit au président
+* par la perte de la qualité de membre actif
+* en cas d'absences successives à plus d'une réunion du Conseil d'administration, par le président
+* en cas de faute visiblement incompatible avec le mandat d'administrateur, à l'unanimité des administrateurs. 
+
+Il n'est pas pourvu au remplacement des mandats d'administrateurs vacants. Par dérogation, si plus d'un tiers des mandats venaient à être vacants, le président peut convoquer une Assemblée générale extraordinaire pour procéder à l'élection des administrateurs manquants, dans les conditions fixées à l'article 11. Le mandat des administrateurs ainsi élus prend fin à la prochaine Assemblée générale ordinaire.
+
+## Titre 3 - l'Assemblée générale
+### Article 14 - Rôle
+L'Assemblée générale dispose de tous les pouvoirs sur le fonctionnement et l'organisation de l'association
+
+### Article 15 - Composition
+L'Assemblée générale est composée de l'ensemble des membres de l'association. Seuls les membres actifs peuvent prendre part aux scrutins. 
+
+### Article 16 - Convocation
+L'Assemblée générale est convoquée par le secrétaire du bureau quinze jours au moins avant la date fixée. La convocation est adressée aux membres par voie électronique, dans les conditions prévues par le règlement intérieur.
+
+### Article 17 - Assemblée générale ordinaire
+L'Assemblée générale se réunit de droit une fois par an, entre janvier et juin. Elle examine les rapports moraux et financiers de l'association.
+
+### Article 18 - Assemblée générale extraordinaire
+L'Assemblée générale extraordinaire est réunie sur un ordre du jour précis à la demande du président, de trois administrateurs ou d'un quart des membres actifs de l'association. Elle examine tout sujet relevant des pouvoirs de l'Assemblée générale.
+
+L'Assemblée générale extraordinaire convoquée en application du présent article doit avoir lieu moins de trente jours après que la demande ait été transmise au président.
+
+### Article 19 - Dissolution du Conseil d'administration
+L'Assemblée générale extraordinaire spécialement convoquée à cet effet dans les conditions prévues à l'article XXX peut mettre fin immédiatement au mandat de l'ensemble des membres du Conseil d'administration. Cette décision est approuvée par les deux tiers des électeurs présents à l'Assemblée générale extraordinaire.
+
+L'Assemblée générale procède alors de droit à l'élection d'un nouveau Conseil d'administration. Par dérogation à l'article XXX le mandat des administrateurs ainsi élus prend fin dès l'Assemblée générale ordinaire suivante.
+
+
+### Article XXX - Modification des statuts
+Les présents statuts peuvent être modifiés par l'Assemblée générale ordinaire ou par une Assemblée générale extraordinaire spécialement convoquée à cet effet, sur proposition du Conseil d'administration ou d'un quart des membres actifs de l'association. La modification des statuts doit être approuvée par la Fédération Nationale de Protection Civile préalablement à la convocation de l'Assemblée générale.
+
+### Article XXX - Dissolution de l'association
+La dissolution de l'association est prononcée par l'Assemblée générale ordinaire ou par une Assemblée générale extraordinaire spécialement convoquée à cet effet, sur proposition du Conseil d'administration ou d'un quart des membres actifs de l'association.
+
+L'Assemblée générale désigne un ou plusieurs liquidateurs en charge de la liquidation des biens de l'association. 
+
+Les actifs nets sont reversés
