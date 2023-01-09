@@ -24,28 +24,32 @@ La durée de l'association est illimitée.
 
 ### Article 5 : Neutralité
 
+
 ### Article 6 : Affiliation à la Fédération Nationale de Protection Civile
 
 ### Article 7 : Composition
 L'association se compose de personnes physiques, appartenant aux catégories suivantes :
 1. Membres, à jour de la cotisation fixée par le conseil d'administration.
-2. Membres actifs, à jour de la cotisation fixée par le conseil d'administration et ayant participées à un nombre minimal d'activités de l'association, dans des conditions définies par le règlement intérieur.   
-3. Membres honoraires, qualité conférée sur proposition du conseil d'administration par l'assemblée générale à une personne ayant rendu des services remarqués à l'association. Les membres honoraires sont dispensés de cotisation et de participation minimum aux activités de l'association. Ils ne peuvent prendre par aux scrutins de l'assemblée générale et ne peuvent être élus au conseil d'administration.
+2. Membres actifs, à jour de la cotisation fixée par le conseil d'administration et ayant participés à un nombre minimal d'activités de l'association, dans des conditions définies par le règlement intérieur.  
+3. Membres honoraires, qualité conférée sur proposition du conseil d'administration par l'assemblée générale à une personne ayant rendu des services remarqués à l'association. Les membres honoraires sont dispensés de cotisation et de participation minimum aux activités de l'association. Ils ne peuvent prendre part aux scrutins de l'assemblée générale et ne peuvent être élus au conseil d'administration.
 
 Le règlement intérieur défini les modalités de l'adhésion à l'association.
 
 ### Article 8 : Perte de la qualité de membre
 La qualité de membre de l'association se perd : 
-1. Par la démission
-2. Par le décès
-3. Par radiation, prononcée par le président du conseil d'administration dans le respect des dispositions de l'article XXXX
+1. Par la démission ;
+2. Par le décès ;
+3. Par radiation, prononcée par le président du conseil d'administration dans le respect des dispositions de l'article XXXX ;
+4. En l'absence de paiement de la cotisation dans les conditions fixées par le règlement intérieur.
 
 ## Titre 2 - le Conseil d'administration
 ### Article 9
 Le Conseil d'administration dirige l'association. 
 
+
+
 ### Article 10
-Le Conseil d'administration est composée de neuf administrateurs.
+Le Conseil d'administration est composée de neuf administrateurs, plus un administrateur par tranche complète de cent membres actifs. 
 
 Les responsables des antennes de l'association assistent aux réunions du conseil d'Administration. Ils ne prennent pas part aux scrutins. 
 
@@ -55,7 +59,7 @@ Les administrateurs sont élus par l'Assemblée générale au scrutin plurinomin
 Le règlement intérieur précise les modalités de l'élection des administrateurs.
 
 ### Article 12
-La durée du mandat des administrateurs est de un an. Si l'Assemblée générale ordinaire ne pouvait être réunie avant l'expiration du mandat, celui-ci serait prolongé jusqu'à la date de la prochaine Assemblée générale ordinaire.
+La durée du mandat des administrateurs est de un an. Si l'Assemblée générale ordinaire ne peut être réunie avant l'expiration du mandat, celui-ci est prolongé jusqu'à la date de la prochaine Assemblée générale ordinaire.
 
 Le mandat d'administrateur est renouvelable.
 
@@ -66,10 +70,40 @@ Sont éligibles au Conseil d'administration les membres actifs de l'association 
 Le mandat d'un administrateur peut prendre fin : 
 * par démission, remise par écrit au président
 * par la perte de la qualité de membre actif
-* en cas d'absences successives à plus d'une réunion du Conseil d'administration, par le président
-* en cas de faute visiblement incompatible avec le mandat d'administrateur, à l'unanimité des administrateurs. 
+* en cas d'absences successives à plus d'une réunion du Conseil d'administration, constatées par le président
+* en cas de faute visiblement incompatible avec le mandat d'administrateur, à l'unanimité des administrateurs à l'exception de l'administrateur concerné par la mesure. 
 
 Il n'est pas pourvu au remplacement des mandats d'administrateurs vacants. Par dérogation, si plus d'un tiers des mandats venaient à être vacants, le président peut convoquer une Assemblée générale extraordinaire pour procéder à l'élection des administrateurs manquants, dans les conditions fixées à l'article 11. Le mandat des administrateurs ainsi élus prend fin à la prochaine Assemblée générale ordinaire.
+
+## Titre X - Le Bureau
+### Article XX - Rôle
+Le bureau organise les travaux du Conseil d'administration.
+
+### Article XX - Election
+Le bureau est élu par le Conseil d'administration, parmi ses membres. Chaque poste fait l'objet d'un scrutin uninominal majoritaire à un tour.
+
+### Article XX - Composition
+Le bureau est constitué d'un président, d'un trésorier et d'un secrétaire. Le Conseil d'administration peut y adjoindre des vice-président, trésoriers adjoints et secrétaires adjoints. 
+
+### Article XX - Le président
+Le président : 
+* dirige les travaux du Conseil d'administration
+* représente l'association en justice et dans tous les actes de la vie civile
+* nomme dans les emplois ouverts par le Conseil d'administration
+
+Il peut déléguer ses pouvoirs à l'un des vice-président ou, après avis conforme du conseil d'Administration, à l'un de ses membres.
+
+### Article XX - Le secrétaire
+Le secrétaire : 
+* assure la correspondance de l'association et l'envoi des convocations
+* rédige les procès verbaux des réunions de l'Assemblée générale et du Conseil d'administration
+* maintien les registres de l'association
+* maintien la liste des membres de l'association
+
+### Article XX - Le trésorier
+Le trésorier : 
+* Tient les comptes de l'association
+* Effectue tout les paiements et perçoit toutes les recettes 
 
 ## Titre 3 - l'Assemblée générale
 ### Article 14 - Rôle
@@ -104,3 +138,10 @@ La dissolution de l'association est prononcée par l'Assemblée générale ordin
 L'Assemblée générale désigne un ou plusieurs liquidateurs en charge de la liquidation des biens de l'association. 
 
 Les actifs nets sont reversés
+
+## Titre 4 - Le règlement intérieur
+### Article 1
+Le règlement intérieur précise les matières autres que celles qui relèvent des présents statuts.
+
+### Article 2 
+Le règlement intérieur est fixé par le Conseil d'administration. Les modifications apportées au règlement intérieur sont communiquées aux membres dès leur adoption. A chaque Assemblée générale ordinaire, les modifications du règlement intérieur adoptées depuis la précédente Assemblée générale ordinaire sont soumises à la ratification de l'Assemblée générale.
