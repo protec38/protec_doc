@@ -1,6 +1,6 @@
 # Statuts
 
-## Titre X
+## Titre X - Préambule
 ### Article X - Raison sociale
 Il est fondé entre les personnes adhérentes aux présents statuts une association régie par la loi du 1er  juillet 1901 ayant pour titre : "Association de Protection Civile de l'Isère", abrégé en "APC 38".
 
