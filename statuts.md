@@ -27,6 +27,7 @@ La durée de l'association est illimitée.
 
 ### Article 6 : Affiliation à la Fédération Nationale de Protection Civile
 
+
 ### Article 7 : Composition
 L'association se compose de personnes physiques, appartenant aux catégories suivantes :
 1. Membres, à jour de la cotisation fixée par le conseil d'administration.
@@ -52,6 +53,8 @@ Le Conseil d'administration dirige l'association.
 Le Conseil d'administration est composée de neuf administrateurs, plus un administrateur par tranche complète de cent membres actifs. 
 
 Les responsables des antennes de l'association assistent aux réunions du conseil d'Administration. Ils ne prennent pas part aux scrutins. 
+
+Le Président peut inviter toute personne susceptible d'éclairer les débats du Conseil d'administration. Les invités ne prennent pas part aux scrutins.  
 
 ### Article 11
 Les administrateurs sont élus par l'Assemblée générale au scrutin plurinominal majoritaire à un tour. En cas d'égalité, les candidats sont départagés par tirage au sort.
@@ -80,7 +83,8 @@ Il n'est pas pourvu au remplacement des mandats d'administrateurs vacants. Par d
 Le bureau organise les travaux du Conseil d'administration.
 
 ### Article XX - Election
-Le bureau est élu par le Conseil d'administration, parmi ses membres. Chaque poste fait l'objet d'un scrutin uninominal majoritaire à un tour.
+Le bureau est élu par le Conseil d'administration parmi ses membres. Chaque poste fait l'objet d'un scrutin uninominal majoritaire à un tour. 
+Dans le cas où le nombre de candidats pour chaque poste est égal au nombre de places à pourvoir, le Conseil d'administration vote sur l'attribution de l'ensemble des postes lors d'un unique scrutin majoritaire à un tour.  
 
 ### Article XX - Composition
 Le bureau est constitué d'un président, d'un trésorier et d'un secrétaire. Le Conseil d'administration peut y adjoindre des vice-président, trésoriers adjoints et secrétaires adjoints. 
@@ -100,10 +104,14 @@ Le secrétaire :
 * maintien les registres de l'association
 * maintien la liste des membres de l'association
 
+Il peut déléguer ses pouvoirs à l'un des secrétaires-adjoint ou, après avis conforme du conseil d'Administration, à l'un de ses membres.
+
 ### Article XX - Le trésorier
 Le trésorier : 
 * Tient les comptes de l'association
 * Effectue tout les paiements et perçoit toutes les recettes 
+
+Il peut déléguer ses pouvoirs à l'un des trésoriers-adjoint ou, après avis conforme du conseil d'Administration, à l'un de ses membres.
 
 ## Titre 3 - l'Assemblée générale
 ### Article 14 - Rôle
@@ -139,9 +147,23 @@ L'Assemblée générale désigne un ou plusieurs liquidateurs en charge de la li
 
 Les actifs nets sont reversés
 
+### Article XXX - Sanctions
+Les sanctions sont prononcées par le Président, sur avis du Bureau. 
+Les sanctions prononcées par le Président sont susceptibles d'appel devant le Conseil d'administration qui statue à la majorité simple.
+
+Les sanctions possibles sont, par ordre croissant de gravité :
+* Le rappel à l'ordre oral, effectué par le Président
+* Le rappel à l'ordre écrit, effectué par le Président
+* La suspension temporaire de toutes les fonctions et activités de l'association
+* La radiation définitive
+
+La sanction peut en outre être assortie d'une peine d'inéligibilité au Conseil d'administration et au Bureau. Le prononcé de l'inéligibilité entraîne de plein droit la fin du mandat du membre actif, le cas échéant. 
+
+Avant le prononcé d'une sanction, la formation de sanction invite les parties à présenter leurs observations et entend les membres à l'encontre desquelles est envisagé une sanction, qui bénéficient du droit d'être assistés d'un membre de leur choix. 
+
 ## Titre 4 - Le règlement intérieur
 ### Article 1
-Le règlement intérieur précise les matières autres que celles qui relèvent des présents statuts.
+Le règlement intérieur connaît des matières autres que celles qui relèvent des présents statuts et précise celles qui en relèvent. 
 
 ### Article 2 
 Le règlement intérieur est fixé par le Conseil d'administration. Les modifications apportées au règlement intérieur sont communiquées aux membres dès leur adoption. A chaque Assemblée générale ordinaire, les modifications du règlement intérieur adoptées depuis la précédente Assemblée générale ordinaire sont soumises à la ratification de l'Assemblée générale.
