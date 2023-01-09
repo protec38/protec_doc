@@ -1,10 +1,10 @@
 # Statuts
 
-## Titre 1
-### Article 1 : Raison sociale
+## Titre X
+### Article X - Raison sociale
 Il est fondé entre les personnes adhérentes aux présents statuts une association régie par la loi du 1er  juillet 1901 ayant pour titre : "Association de Protection Civile de l'Isère", abrégé en "APC 38".
 
-### Article 2 : Objet
+### Article X - Objet
 L'association a pour objet de mettre en œuvre tous les moyens dont elle dispose en vue d’assurer la protection des populations civiles en temps de paix comme en temps de crise ou de guerre. 
 
 En étroite collaboration avec l’ensemble des pouvoirs publics, ainsi qu’avec tous les partenaires soucieux de soutenir son but, l'association fonde ses actions sur les quatre domaines prioritaires suivants : 
@@ -14,21 +14,21 @@ En étroite collaboration avec l’ensemble des pouvoirs publics, ainsi qu’ave
 * Et plus généralement toute mission correspondant à son objet
 Ainsi, elle est susceptible de participer, à la demande des pouvoirs publics, des organismes publics ou privés, ou à son initiative, à toutes les opérations de secours, de couverture sanitaire ou d’aide humanitaire, tant sur le territoire national qu’à l’international.
 
-### Article 3 : Siège social
+### Article X - Siège social
 Le siège social de l'association est fixé au 1, rue des Marronniers à Fontaine.
 
 Il pourra être transféré sur décision du Conseil d'Administration.
 
-### Article 4 : Durée
+### Article X - Durée
 La durée de l'association est illimitée.
 
-### Article 5 : Neutralité
+### Article X - Neutralité
 
 
-### Article 6 : Affiliation à la Fédération Nationale de Protection Civile
+### Article X - Affiliation à la Fédération Nationale de Protection Civile
 
 
-### Article 7 : Composition
+### Article X - Composition
 L'association se compose de personnes physiques, appartenant aux catégories suivantes :
 1. Membres, à jour de la cotisation fixée par le conseil d'administration.
 2. Membres actifs, à jour de la cotisation fixée par le conseil d'administration et ayant participés à un nombre minimal d'activités de l'association, dans des conditions définies par le règlement intérieur.  
@@ -36,40 +36,40 @@ L'association se compose de personnes physiques, appartenant aux catégories sui
 
 Le règlement intérieur défini les modalités de l'adhésion à l'association.
 
-### Article 8 : Perte de la qualité de membre
+### Article X - Perte de la qualité de membre
 La qualité de membre de l'association se perd : 
 1. Par la démission ;
 2. Par le décès ;
 3. Par radiation, prononcée par le président du conseil d'administration dans le respect des dispositions de l'article XXXX ;
 4. En l'absence de paiement de la cotisation dans les conditions fixées par le règlement intérieur.
 
-## Titre 2 - le Conseil d'administration
-### Article 9
+## Titre X - le Conseil d'administration
+### Article X
 Le Conseil d'administration dirige l'association. 
 
 
 
-### Article 10
+### Article X
 Le Conseil d'administration est composée de neuf administrateurs, plus un administrateur par tranche complète de cent membres actifs. 
 
 Les responsables des antennes de l'association assistent aux réunions du conseil d'Administration. Ils ne prennent pas part aux scrutins. 
 
 Le Président peut inviter toute personne susceptible d'éclairer les débats du Conseil d'administration. Les invités ne prennent pas part aux scrutins.  
 
-### Article 11
+### Article X
 Les administrateurs sont élus par l'Assemblée générale au scrutin plurinominal majoritaire à un tour. En cas d'égalité, les candidats sont départagés par tirage au sort.
 
 Le règlement intérieur précise les modalités de l'élection des administrateurs.
 
-### Article 12
+### Article X
 La durée du mandat des administrateurs est de un an. Si l'Assemblée générale ordinaire ne peut être réunie avant l'expiration du mandat, celui-ci est prolongé jusqu'à la date de la prochaine Assemblée générale ordinaire.
 
 Le mandat d'administrateur est renouvelable.
 
-### Article 13
+### Article X
 Sont éligibles au Conseil d'administration les membres actifs de l'association ayant plus de 6 mois d'ancienneté au jour de l'élection.
 
-### Article 14
+### Article X
 Le mandat d'un administrateur peut prendre fin : 
 * par démission, remise par écrit au président
 * par la perte de la qualité de membre actif
@@ -113,41 +113,41 @@ Le trésorier :
 
 Il peut déléguer ses pouvoirs à l'un des trésoriers-adjoint ou, après avis conforme du conseil d'Administration, à l'un de ses membres.
 
-## Titre 3 - l'Assemblée générale
-### Article 14 - Rôle
+## Titre X - l'Assemblée générale
+### Article XX - Rôle
 L'Assemblée générale dispose de tous les pouvoirs sur le fonctionnement et l'organisation de l'association
 
-### Article 15 - Composition
+### Article XX - Composition
 L'Assemblée générale est composée de l'ensemble des membres de l'association. Seuls les membres actifs peuvent prendre part aux scrutins. 
 
-### Article 16 - Convocation
+### Article XX - Convocation
 L'Assemblée générale est convoquée par le secrétaire du bureau quinze jours au moins avant la date fixée. La convocation est adressée aux membres par voie électronique, dans les conditions prévues par le règlement intérieur.
 
-### Article 17 - Assemblée générale ordinaire
+### Article XX - Assemblée générale ordinaire
 L'Assemblée générale se réunit de droit une fois par an, entre janvier et juin. Elle examine les rapports moraux et financiers de l'association.
 
-### Article 18 - Assemblée générale extraordinaire
+### Article XX - Assemblée générale extraordinaire
 L'Assemblée générale extraordinaire est réunie sur un ordre du jour précis à la demande du président, de trois administrateurs ou d'un quart des membres actifs de l'association. Elle examine tout sujet relevant des pouvoirs de l'Assemblée générale.
 
 L'Assemblée générale extraordinaire convoquée en application du présent article doit avoir lieu moins de trente jours après que la demande ait été transmise au président.
 
-### Article 19 - Dissolution du Conseil d'administration
+### Article XX - Dissolution du Conseil d'administration
 L'Assemblée générale extraordinaire spécialement convoquée à cet effet dans les conditions prévues à l'article XXX peut mettre fin immédiatement au mandat de l'ensemble des membres du Conseil d'administration. Cette décision est approuvée par les deux tiers des électeurs présents à l'Assemblée générale extraordinaire.
 
 L'Assemblée générale procède alors de droit à l'élection d'un nouveau Conseil d'administration. Par dérogation à l'article XXX le mandat des administrateurs ainsi élus prend fin dès l'Assemblée générale ordinaire suivante.
 
 
-### Article XXX - Modification des statuts
+### Article XX - Modification des statuts
 Les présents statuts peuvent être modifiés par l'Assemblée générale ordinaire ou par une Assemblée générale extraordinaire spécialement convoquée à cet effet, sur proposition du Conseil d'administration ou d'un quart des membres actifs de l'association. La modification des statuts doit être approuvée par la Fédération Nationale de Protection Civile préalablement à la convocation de l'Assemblée générale.
 
-### Article XXX - Dissolution de l'association
+### Article XX - Dissolution de l'association
 La dissolution de l'association est prononcée par l'Assemblée générale ordinaire ou par une Assemblée générale extraordinaire spécialement convoquée à cet effet, sur proposition du Conseil d'administration ou d'un quart des membres actifs de l'association.
 
 L'Assemblée générale désigne un ou plusieurs liquidateurs en charge de la liquidation des biens de l'association. 
 
 Les actifs nets sont reversés
 
-### Article XXX - Sanctions
+### Article XX - Sanctions
 Les sanctions sont prononcées par le Président, sur avis du Bureau. 
 Les sanctions prononcées par le Président sont susceptibles d'appel devant le Conseil d'administration qui statue à la majorité simple.
 
@@ -161,9 +161,9 @@ La sanction peut en outre être assortie d'une peine d'inéligibilité au Consei
 
 Avant le prononcé d'une sanction, la formation de sanction invite les parties à présenter leurs observations et entend les membres à l'encontre desquelles est envisagé une sanction, qui bénéficient du droit d'être assistés d'un membre de leur choix. 
 
-## Titre 4 - Le règlement intérieur
-### Article 1
+## Titre X - Le règlement intérieur
+### Article XX
 Le règlement intérieur connaît des matières autres que celles qui relèvent des présents statuts et précise celles qui en relèvent. 
 
-### Article 2 
+### Article XX 
 Le règlement intérieur est fixé par le Conseil d'administration. Les modifications apportées au règlement intérieur sont communiquées aux membres dès leur adoption. A chaque Assemblée générale ordinaire, les modifications du règlement intérieur adoptées depuis la précédente Assemblée générale ordinaire sont soumises à la ratification de l'Assemblée générale.
