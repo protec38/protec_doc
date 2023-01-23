@@ -3,13 +3,13 @@
 Il est fondé entre les personnes adhérentes aux présents statuts une association régie par la loi du 1er  juillet 1901 ayant pour titre : "Association de Protection Civile de l'Isère", abrégé en "APC 38".
 
 ## Article 2 - Objet
-L'association a pour objet de mettre en œuvre tous les moyens dont elle dispose en vue d’assurer la protection des populations civiles en temps de paix comme en temps de crise ou de guerre. 
+L'association a pour objet de mettre en œuvre tous les moyens dont elle dispose en vue d’assurer la protection des populations civiles en temps de paix comme en temps de crise ou de guerre.
 
 En étroite collaboration avec l’ensemble des pouvoirs publics, ainsi qu’avec tous les partenaires soucieux de soutenir son but, l'association fonde ses actions sur les quatre domaines prioritaires suivants : 
-* La sensibilisation et la formation aux premiers secours, à la santé, à la sécurité et à la prévention des accidents de toute nature
-* La réalisation des missions de sécurité civile définies par la réglementation (opérations de secours, actions de soutien aux populations sinistrées, encadrement des bénévoles lors des actions de soutien aux populations sinistrées, dispositifs prévisionnels de secours)
-* La réalisation d’actions solidaires et sociales
-* Et plus généralement toute mission correspondant à son objet
+* La sensibilisation et la formation aux premiers secours, à la santé, à la sécurité et à la prévention des accidents de toute nature ;
+* La réalisation des missions de sécurité civile définies par la réglementation (opérations de secours, actions de soutien aux populations sinistrées, encadrement des bénévoles lors des actions de soutien aux populations sinistrées, dispositifs prévisionnels de secours) ;
+* La réalisation d’actions solidaires et sociales ;
+* Et plus généralement toute mission correspondant à son objet.
 Ainsi, elle est susceptible de participer, à la demande des pouvoirs publics, des organismes publics ou privés, ou à son initiative, à toutes les opérations de secours, de couverture sanitaire ou d’aide humanitaire, tant sur le territoire national qu’à l’international.
 
 ## Article 3 - Siège social
@@ -22,18 +22,18 @@ La durée de l'association est illimitée.
 
 ## Article 5 - Composition
 L'association se compose de personnes physiques, appartenant aux catégories suivantes :
-1. Membres, à jour de la cotisation fixée par le conseil d'administration.
-2. Membres actifs, à jour de la cotisation fixée par le conseil d'administration et ayant participés à un nombre minimal d'activités de l'association, dans des conditions définies par le règlement intérieur.  
-3. Membres honoraires, qualité conférée sur proposition du conseil d'administration par l'assemblée générale à une personne ayant rendu des services remarqués à l'association. Les membres honoraires sont dispensés de cotisation et de participation minimum aux activités de l'association. Ils ne peuvent prendre part aux scrutins de l'assemblée générale et ne peuvent être élus au conseil d'administration.
+* Membres, à jour de la cotisation fixée par le conseil d'administration ;
+* Membres actifs, à jour de la cotisation fixée par le conseil d'administration et ayant participé à un nombre minimal d'activités de l'association, dans des conditions définies par le règlement intérieur ;
+* Membres honoraires, qualité conférée sur proposition du conseil d'administration par l'assemblée générale à une personne ayant rendu des services remarqués à l'association. Les membres honoraires sont dispensés de cotisation et de participation minimum aux activités de l'association. Ils ne peuvent prendre part aux scrutins de l'assemblée générale et ne peuvent être élus au conseil d'administration.
 
 Le règlement intérieur défini les modalités de l'adhésion à l'association.
 
 ## Article 6 - Perte de la qualité de membre
 La qualité de membre de l'association se perd : 
-1. Par la démission ;
-2. Par le décès ;
-3. Par radiation, dans le respect des dispositions de l'article 40 ;
-4. En l'absence de paiement de la cotisation dans les conditions fixées par le règlement intérieur.
+* Par la démission ;
+* Par le décès ;
+* Par radiation, dans le respect des dispositions de l'article 40 ;
+* En l'absence de paiement de la cotisation dans les conditions fixées par le règlement intérieur.
 
 
 # Titre II - Lien avec la Fédération Nationale de Protection Civile
@@ -100,10 +100,10 @@ Sont éligibles au Conseil d'administration les membres actifs de l'association 
 
 ## Article 18 - Fin du mandat
 Le mandat d'un administrateur peut prendre fin : 
-* par démission, remise par écrit au président ;
-* par la perte de la qualité de membre actif ;
-* en cas d'absences successives à plus d'une réunion du Conseil d'administration, constatées par le président ;
-* en cas de faute visiblement incompatible avec le mandat d'administrateur, à l'unanimité des administrateurs à l'exception de l'administrateur concerné par la mesure. 
+* Par démission, remise par écrit au président ;
+* Par la perte de la qualité de membre actif ;
+* En cas d'absences successives à plus d'une réunion du Conseil d'administration, constatées par le président ;
+* En cas de faute visiblement incompatible avec le mandat d'administrateur, à l'unanimité des administrateurs à l'exception de l'administrateur concerné par la mesure. 
 
 Il n'est pas pourvu au remplacement des mandats d'administrateurs vacants. Par dérogation, si plus d'un tiers des mandats venaient à être vacants, le président peut convoquer une Assemblée générale extraordinaire pour procéder à l'élection des administrateurs manquants, dans les conditions fixées à l'article 15. Le mandat des administrateurs ainsi élus prend fin à la prochaine Assemblée générale ordinaire.
 
@@ -125,26 +125,26 @@ Le bureau est constitué d'un président, d'un trésorier et d'un secrétaire. L
 
 ## Article 23 - Le président
 Le président : 
-* dirige les travaux du Conseil d'administration
-* représente l'association en justice et dans tous les actes de la vie civile
-* nomme dans les emplois ouverts par le Conseil d'administration
-* il départage le Conseil d'administration et l'Assemblée générale en cas d'égalité
+* Dirige les travaux du Conseil d'administration ;
+* Représente l'association en justice et dans tous les actes de la vie civile ;
+* Nomme dans les emplois ouverts par le Conseil d'administration ;
+* Départage le Conseil d'administration et l'Assemblée générale en cas d'égalité.
 
 Il peut déléguer ses pouvoirs à l'un des vice-président ou, après avis conforme du conseil d'Administration, à l'un de ses membres.
 
 ## Article 24 - Le secrétaire
 Le secrétaire : 
-* assure la correspondance de l'association et l'envoi des convocations
-* rédige les procès verbaux des réunions de l'Assemblée générale et du Conseil d'administration
-* maintien les registres de l'association
-* maintien la liste des membres de l'association
+* Assure la correspondance de l'association et l'envoi des convocations ;
+* Rédige les procès verbaux des réunions de l'Assemblée générale et du Conseil d'administration ;
+* Maintien les registres de l'association ;
+* Maintien la liste des membres de l'association.
 
 Il peut déléguer ses pouvoirs à l'un des secrétaires-adjoint ou, après avis conforme du conseil d'Administration, à l'un de ses membres.
 
 ## Article 25 - Le trésorier
 Le trésorier : 
-* Tient les comptes de l'association
-* Effectue tout les paiements et perçoit toutes les recettes 
+* Tient les comptes de l'association ;
+* Effectue tout les paiements et perçoit toutes les recettes.
 
 Il peut déléguer ses pouvoirs à l'un des trésoriers-adjoint ou, après avis conforme du conseil d'Administration, à l'un de ses membres.
 
@@ -164,9 +164,9 @@ L'Assemblée générale est convoquée par le secrétaire du bureau quinze jours
 ## Article 30 - Assemblée générale ordinaire
 L'Assemblée générale se réunit de droit une fois par an, entre janvier et juin. 
 * Elle examine les rapports moraux et financiers de l'association ;
-* Elle examine les différents rapports d'activités
-* Elle procède à l'élection des membres du Conseil d'administration
-* Elle délibère sur tous les sujets portés à l'ordre du jour par le Conseil d'administration ou par dix membres actifs de l'association
+* Elle examine les différents rapports d'activités ;
+* Elle procède à l'élection des membres du Conseil d'administration ;
+* Elle délibère sur tous les sujets portés à l'ordre du jour par le Conseil d'administration ou par dix membres actifs de l'association.
 
 ## Article 31 - Assemblée générale extraordinaire
 L'Assemblée générale extraordinaire est réunie sur un ordre du jour précis à la demande du président,  à la demande de trois administrateurs ou à la demande d'un quart des membres actifs de l'association. Elle examine tout sujet relevant des pouvoirs de l'Assemblée générale.
@@ -210,10 +210,10 @@ Les sanctions sont prononcées par le Président, sur avis du Bureau.
 Les sanctions prononcées par le Président sont susceptibles d'appel devant le Conseil d'administration qui statue à la majorité simple.
 
 Les sanctions possibles sont, par ordre croissant de gravité :
-* Le rappel à l'ordre oral, effectué par le Président
-* Le rappel à l'ordre écrit, effectué par le Président
-* La suspension temporaire de toutes les fonctions et activités de l'association
-* La radiation définitive
+* Le rappel à l'ordre oral, effectué par le Président ;
+* Le rappel à l'ordre écrit, effectué par le Président ;
+* La suspension temporaire de toutes les fonctions et activités de l'association ;
+* La radiation définitive.
 
 La sanction peut en outre être assortie d'une peine d'inéligibilité au Conseil d'administration et au Bureau. Le prononcé de l'inéligibilité entraîne de plein droit la fin du mandat du membre actif, le cas échéant. 
 
