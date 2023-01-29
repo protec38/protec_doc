@@ -1,6 +1,6 @@
 # Titre I - Dispositions générales
 ## Article 1 - Raison sociale
-Il est fondé entre les personnes adhérentes aux présents statuts une association régie par la loi du 1er  juillet 1901 ayant pour titre : "Association de Protection Civile de l'Isère", abrégé en "APC 38".
+Il est fondé entre les personnes adhérentes aux présents statuts une association régie par la loi du 1er  juillet 1901 ayant pour titre : « Association de Protection Civile de l'Isère », abrégé en « APC 38 ».
 
 ## Article 2 - Objet
 L'association a pour objet de mettre en œuvre tous les moyens dont elle dispose en vue d’assurer la protection des populations civiles en temps de paix comme en temps de crise ou de guerre.
@@ -187,7 +187,7 @@ L'Assemblée générale procède alors de droit à l'élection d'un nouveau Cons
 
 # Titre VI - Antennes
 ## Article 35 - Création d'une antenne
-À la demande d'au moins 4 membres actifs d'un même secteur géographique, l'Assemblée générale peut décider de la création d'une antenne nommée "APC 38 - Antenne de <nom du secteur géographique>"
+À la demande d'au moins 4 membres actifs d'un même secteur géographique, l'Assemblée générale peut décider de la création d'une antenne nommée « APC 38 - Antenne de <nom du secteur géographique> »
 
 ## Article 36 - Direction des antennes
 Les antennes de l'association sont dirigées par le Conseil d'administration de l'association. Le Conseil d'administration peut déléguer certains de ses pouvoirs à l'antenne.
