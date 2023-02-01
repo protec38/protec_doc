@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: docker://pandoc/core:2.9
         with:
-          args: "-f commonmark -o statuts.pdf statuts.md" # gets appended to pandoc command
+          args: "-f commonmark -o /github/workspace/statuts.pdf /github/workspace/statuts.md" # gets appended to pandoc command
