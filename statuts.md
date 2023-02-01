@@ -85,7 +85,7 @@ Le Président peut inviter toute personne susceptible d'éclairer les débats du
 Les réunions du Conseil d'administration peuvent avoir lieu en visioconférence, dans les conditions fixées par le règlement intérieur.
 
 ## Article 15 - Élection
-Les administrateurs sont élus par l'Assemblée générale par approbation. Sont élus les candidats ayant reçu la majorité des scrutins, dans la limite du nombre de places fixées par l'article 13. Si le nombre de candidats ainsi élus est supérieur au nombre de places à pourvoir, les places sont attribuées aux candidats ayant reçu le plus de scrutin. En cas d'égalité, les candidats sont départagés par tirage au sort.
+Les administrateurs sont élus par l'Assemblée générale par approbation. Sont élus les candidats ayant reçu été approuvés par la majorité des scrutins, dans la limite du nombre de places fixées par l'article 13. Si le nombre de candidats ainsi élus est supérieur au nombre de places à pourvoir, les places sont attribuées aux candidats ayant reçu le plus de scrutin. En cas d'égalité, les candidats sont départagés par tirage au sort.
 
 Chaque membre représenté dispose d'un nombre de voix au maximum égal au nombre de places à pourvoir et ne peut voter qu'une seule fois pour un même candidat.
 
