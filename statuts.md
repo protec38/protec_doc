@@ -15,7 +15,7 @@ Ainsi, elle est susceptible de participer, à la demande des pouvoirs publics, d
 ## Article 3 - Siège social
 Le siège social de l'association est fixé au 1, rue des Marronniers à Fontaine.
 
-Il pourra être transféré sur décision du Conseil d'Administration.
+Il pourra être transféré sur décision du Conseil d'administration.
 
 ## Article 4 - Durée
 La durée de l'association est illimitée.
@@ -79,7 +79,7 @@ Chaque membre du Conseil d'administration peut donner pouvoir à un autre des me
 
 La moitié des membres du Conseil d'administration doivent être présents ou représentés aux réunions pour que celui-ci délibère valablement.
 
-Les responsables des antennes de l'association assistent aux réunions du conseil d'Administration. Ils ne prennent pas part aux scrutins.
+Les responsables des antennes de l'association assistent aux réunions du Conseil d'administration, sans prendre part aux scrutins.
 
 Le président ou la présidente peut inviter toute personne susceptible d'éclairer les débats du Conseil d'administration. Les personnes ainsi invitées ne prennent pas part aux scrutins.
 
@@ -111,7 +111,7 @@ Il n'est pas pourvu au remplacement des mandats vacants. Par dérogation, si plu
 ## Article 19 - Prévention des conflits d'intérêt
 Lorsqu’un membre du Conseil d'administration pourrait être impliqué dans un conflit d’intérêt, réel, potentiel ou apparent, il ou elle en informe sans délai le Conseil d'administration et s’abstient de participer aux débats et de voter sur la délibération concernée. Il en est de même pour tout membre candidat à l'élection au Conseil d'administation, qui en informe l’assemblée générale.
 
-Tout manquement aux obligations du présent article est susceptible de constituer une faute incompatible avec le mandat d'administrateur et entraîner la fin du mandat de l'administrateur dans les conditions fixées à l'article 18.
+Tout manquement aux obligations du présent article est susceptible de constituer une faute incompatible avec le mandat de membre du Conseil d'administration et entraîner la fin de celui-ci dans les conditions fixées à l'article 18.
 
 # Titre IV - Le Bureau
 ## Article 20 - Rôle
