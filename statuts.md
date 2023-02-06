@@ -63,7 +63,7 @@ La rupture de l'affiliation à la Fédération est décidée par l'Assemblée g�
 ## Article 12 - Pouvoirs
 Le Conseil d'administration met en œuvre les orientations stratégiques décidées par l’Assemblée générale. Il gère et administre l'association conformément à ces orientations et aux décisions budgétaires votées
 
-Il prépare le budget prévisionnel de l’association à soumettre à l’approbation de l’assemblée générale.
+Il prépare le budget prévisionnel de l’association et le soumet à l’approbation de l’assemblée générale.
 
 Il fixe les conditions de recrutement et de rémunération aux postes salariés de l’association.
 
@@ -239,6 +239,6 @@ L'Assemblée générale désigne un ou plusieurs liquidateurs en charge de la li
 Les actifs nets sont reversés à la Fédération Nationale de Protection Civile.
 
 ## Article 43 - Dispositions transitoires
-La première approbation des présents statuts en 2023 entraîne de droit la dissolution du Conseil d'administration. L'Assemblée générale réunie pour l'approbation des statuts procède immédiatement à l'élection d'un nouveau Conseil, dans les conditions fixées par les présentes. Le mandat des nouveaux administrateurs ainsi élus prend fin à l'Assemblée générale ordinaire suivante.
+La première approbation des présents statuts en 2023 entraîne de droit la dissolution du Conseil d'administration. L'Assemblée générale extraordinaire réunie pour l'approbation des statuts procède immédiatement à l'élection d'un nouveau Conseil d'administration, dans les conditions fixées par les présentes. Le mandat des nouveaux membres du Conseil d'administration ainsi élus prend fin à l'Assemblée générale ordinaire suivante.
 
 L'Assemblée générale extraordinaire étudie ensuite l'ordre du jour prévue pour les Assemblées générales ordinaires, à l'exception de l'élection des membres du Conseil d'administration.
