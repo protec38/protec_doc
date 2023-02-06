@@ -50,7 +50,7 @@ L’Association peut perdre sa qualité de membre de la Fédération en faisant 
 ## Article 10 - Intervention de la Fédération dans le fonctionnement de l'Association
 Si la Fédération constate un dysfonctionnement grave au sein de l’Association, elle peut désigner un conseiller et/ou médiateur en vue d’apporter des améliorations dans le fonctionnement de l’Association.
 
-L’Association peut également demander à la Fédération la désignation d’un conseiller et/ou médiateur afin de l’aider à régler un problème important.
+L’Association peut également demander à la Fédération la désignation d’un conseiller et/ou médiateur afin de l’aider à régler un problème important, à la demande du président ou de la présidente ou de trois membres du Conseil d'administration.
 
 En cas de défaillance grave d’administration de l’Association, la Fédération peut nommer un administreur ou une administratrice provisoire. Il ou elle a compétence pour convoquer un Conseil d'administration ou une Assemblée générale. Il ou elle préside alors ces instances. Il ou elle est également compétente pour gérer les affaires courantes de l’association. 
 
@@ -65,7 +65,7 @@ Le Conseil d'administration met en œuvre les orientations stratégiques décid�
 
 Il prépare le budget prévisionnel de l’association à soumettre à l’approbation de l’assemblée générale.
 
-Il fixe les conditions de recrutement et de rémunération des salariés de l’association.
+Il fixe les conditions de recrutement et de rémunération aux postes salariés de l’association.
 
 Il peut confier des responsabilités à des membres de l'Association ne faisant pas partie du Conseil d'administration. Le Conseil peut à tout moment se faire rendre compte des responsabilités qu'il a confié et mettre fin à cette délégation.
 
@@ -75,7 +75,7 @@ Le Conseil d'administration est composée d'au moins neuf et d'au plus onze memb
 ## Article 14 - Réunions du Conseil d'administration
 Le Conseil d'administration se réunit au moins une fois par trimestre. Il peut être réuni par le président ou la présidente, ou à la demande de trois membres du Conseil d’administration. 
 
-Chaque membre du Conseil d'administration peut donner pouvoir à un autre des membres. Un membre du conseil d'administration ne peut porter plus d'un pouvoir.
+Chaque membre du Conseil d'administration peut donner pouvoir pour le représenter à un autre des membres. Un membre du Conseil d'administration ne peut porter plus d'un pouvoir.
 
 La moitié des membres du Conseil d'administration doivent être présents ou représentés aux réunions pour que celui-ci délibère valablement.
 
@@ -84,6 +84,8 @@ Les responsables des antennes de l'association assistent aux réunions du Consei
 Le président ou la présidente peut inviter toute personne susceptible d'éclairer les débats du Conseil d'administration. Les personnes ainsi invitées ne prennent pas part aux scrutins.
 
 Les réunions du Conseil d'administration peuvent avoir lieu en visioconférence, dans les conditions fixées par le règlement intérieur.
+
+Le Conseil d'administration est convoqué par le secrétariat du bureau quinze jours au moins avant la date fixée. La convocation est adressée aux membres par voie électronique, dans les conditions prévues par le règlement intérieur. L'ordre du jour est joint à la convocation.
 
 ## Article 15 - Élection
 Les membres du Conseil d'administration sont élus par l'Assemblée générale par approbation. Sont élus les membres ayant reçus l'approbation de la majorité des votants, dans la limite du nombre de places fixées par l'article 13. Si le nombre de membres ainsi élus est supérieur au nombre de places à pourvoir, les places sont attribuées aux membres ayant reçus le plus de scrutin. Les égalités sont départagées par tirage au sort.
@@ -118,8 +120,7 @@ Tout manquement aux obligations du présent article est susceptible de constitue
 Le bureau organise les travaux du Conseil d'administration.
 
 ## Article 21 - Élection
-Le bureau est élu par le Conseil d'administration parmi ses membres. Chaque poste fait l'objet d'un scrutin uninominal majoritaire à un tour.
-Dans le cas où le nombre de candidats pour chaque poste est égal au nombre de places à pourvoir, le Conseil d'administration vote sur l'attribution de l'ensemble des postes lors d'un unique scrutin majoritaire à un tour.
+Le bureau est élu par le Conseil d'administration parmi ses membres pour la durée du mandat du Conseil d'administration. Chaque poste fait l'objet d'un scrutin uninominal majoritaire à un tour.
 
 Une élection du bureau a lieu de droit lorsqu'un des postes devient vacant. 
 
@@ -132,7 +133,7 @@ Le bureau est constitué d'un président ou d'une présidente, d'un trésorier o
 La présidente / le président : 
 * Dirige les travaux du Conseil d'administration ;
 * Représente l'association en justice et dans tous les actes de la vie civile ;
-* Nomme dans les emplois ouverts par le Conseil d'administration, sur avis conforme de celui-ci ;
+* Nomme dans les emplois salariés ouverts par le Conseil d'administration, sur avis conforme de celui-ci ;
 * Départage le Conseil d'administration et l'Assemblée générale en cas d'égalité.
 
 Il ou elle peut déléguer ses pouvoirs à l'un des vice-présidents ou l'une des vice-présidentes ou, après avis conforme du Conseil d'administration, à l'un de ses membres.
@@ -141,6 +142,7 @@ Il ou elle peut déléguer ses pouvoirs à l'un des vice-présidents ou l'une de
 La secrétaire / le secrétaire : 
 * Assure la correspondance de l'association et l'envoi des convocations ;
 * Rédige les procès verbaux des réunions de l'Assemblée générale et du Conseil d'administration ;
+* Envoie les convocations aux réunions du Conseil d'administration et de l'Assemblée générale
 * Maintien les registres de l'association ;
 * Maintien la liste des membres de l'association.
 
@@ -202,7 +204,7 @@ Les antennes de l'association sont dirigées par le Conseil d'administration de 
 ## Article 37 - Responsable d'antenne
 Le Conseil d'administration nomme pour chaque un antenne un responsable d'antenne, sur la proposition des membres actifs de celle-ci.
 
-Le Conseil d'administration peut révoquer à tout moment le responsable d'une antenne.
+Le Conseil peut à tout moment se faire rendre compte des responsabilités qu'il a confié et mettre fin à cette délégation.
 
 # Titre VII - Le règlement intérieur
 ## Article 38 - Champ d'application
@@ -238,3 +240,5 @@ Les actifs nets sont reversés à la Fédération Nationale de Protection Civile
 
 ## Article 43 - Dispositions transitoires
 La première approbation des présents statuts en 2023 entraîne de droit la dissolution du Conseil d'administration. L'Assemblée générale réunie pour l'approbation des statuts procède immédiatement à l'élection d'un nouveau Conseil, dans les conditions fixées par les présentes. Le mandat des nouveaux administrateurs ainsi élus prend fin à l'Assemblée générale ordinaire suivante.
+
+L'Assemblée générale extraordinaire étudie ensuite l'ordre du jour prévue pour les Assemblées générales ordinaires, à l'exception de l'élection des membres du Conseil d'administration.
