@@ -52,7 +52,7 @@ Si la Fédération constate un dysfonctionnement grave au sein de l’Associatio
 
 L’Association peut également demander à la Fédération la désignation d’un conseiller et/ou médiateur afin de l’aider à régler un problème important, à la demande du président ou de la présidente ou de trois membres du Conseil d’administration.
 
-En cas de défaillance grave d’administration de l’Association, la Fédération peut nommer un administreur ou une administratrice provisoire. Il ou elle a compétence pour convoquer un Conseil d’administration ou une Assemblée générale. Il ou elle préside alors ces instances. Il ou elle est également compétente pour gérer les affaires courantes de l’association.
+En cas de défaillance grave d’administration de l’Association, la Fédération peut nommer un administrateur ou une administratrice provisoire. Il ou elle a compétence pour convoquer un Conseil d’administration ou une Assemblée générale. Il ou elle préside alors ces instances. Il ou elle est également compétente pour gérer les affaires courantes de l’association.
 
 Son mandat cesse à la demande de la Fédération.
 
@@ -67,10 +67,10 @@ Il prépare le budget prévisionnel de l’association et le soumet à l’appro
 
 Il fixe les conditions de recrutement et de rémunération aux postes salariés de l’association.
 
-Il peut confier des responsabilités à des membres de l’Association ne faisant pas partie du Conseil d’administration. Le Conseil peut à tout moment se faire rendre compte des responsabilités qu’il a confié et mettre fin à cette délégation.
+Il peut confier des responsabilités à des membres de l’Association ne faisant pas partie du Conseil d’administration. Le Conseil peut à tout moment se faire rendre compte des responsabilités qu’il a confiées et mettre fin à cette délégation.
 
 ## Article 13 – Composition
-Le Conseil d’administration est composée d’au moins neuf et d’au plus onze membres. Ces limites sont augmentées d’un membre par tranche complète de cent membres actifs.
+Le Conseil d’administration est composé d’au moins neuf et d’au plus onze membres. Ces limites sont augmentées d’un membre par tranche complète de cent membres actifs.
 
 ## Article 14 – Réunions du Conseil d’administration
 Le Conseil d’administration se réunit au moins une fois par trimestre. Il peut être réuni par le président ou la présidente, ou à la demande de trois membres du Conseil d’administration.
@@ -88,7 +88,7 @@ Les réunions du Conseil d’administration peuvent avoir lieu en visioconféren
 Le Conseil d’administration est convoqué par le secrétariat du bureau quinze jours au moins avant la date fixée. La convocation est adressée aux membres par voie électronique, dans les conditions prévues par le règlement intérieur. L’ordre du jour est joint à la convocation.
 
 ## Article 15 – Élection
-Les membres du Conseil d’administration sont élus par l’Assemblée générale par approbation. Sont élus les membres ayant reçus l’approbation de la majorité des votants, dans la limite du nombre de places fixées par l’article 13. Si le nombre de membres ainsi élus est supérieur au nombre de places à pourvoir, les places sont attribuées aux membres ayant reçus le plus de scrutin. Les égalités sont départagées par tirage au sort.
+Les membres du Conseil d’administration sont élus par l’Assemblée générale par approbation. Sont élus les membres ayant reçu l’approbation de la majorité des votants, dans la limite du nombre de places fixées par l’article 13. Si le nombre de membres ainsi élus est supérieur au nombre de places à pourvoir, les places sont attribuées aux membres ayant reçu le plus de scrutin. Les égalités sont départagées par tirage au sort.
 
 Chaque membre représenté dispose d’un nombre de voix au maximum égal au nombre de places à pourvoir et ne peut voter qu’une seule fois pour un même candidat.
 
@@ -100,7 +100,7 @@ La durée du mandat des membres du Conseil d’administration est de un an. Si l
 Le mandat est renouvelable.
 
 ## Article 17 – Éligibilité
-Sont éligibles au Conseil d’administration les membres actifs de l’association ayant plus de 6 mois d’ancienneté au jour de l’élection.
+Sont éligibles au Conseil d’administration les membres actifs de l’association ayant plus de 6 mois d’ancienneté au jour de l’élection.
 
 ## Article 18 – Fin du mandat
 Le mandat d’un membre du Conseil d’administration peut prendre fin :
@@ -111,7 +111,7 @@ Le mandat d’un membre du Conseil d’administration peut prendre fin :
 Il n’est pas pourvu au remplacement des mandats vacants. Par dérogation, si plus d’un tiers des mandats venaient à être vacants, le président ou la présidente peut convoquer une Assemblée générale extraordinaire pour procéder à l’élection des membres du Conseil d’administration manquants, dans les conditions fixées à l’article 15. Le mandat des membres du Conseil d’administration ainsi élus prend fin à la prochaine Assemblée générale ordinaire.
 
 ## Article 19 – Prévention des conflits d’intérêt
-Lorsqu’un membre du Conseil d’administration pourrait être impliqué dans un conflit d’intérêt, réel, potentiel ou apparent, il ou elle en informe sans délai le Conseil d’administration et s’abstient de participer aux débats et de voter sur la délibération concernée. Il en est de même pour tout membre candidat à l’élection au Conseil d’administation, qui en informe l’assemblée générale.
+Lorsqu’un membre du Conseil d’administration pourrait être impliqué dans un conflit d’intérêt, réel, potentiel ou apparent, il ou elle en informe sans délai le Conseil d’administration et s’abstient de participer aux débats et de voter sur la délibération concernée. Il en est de même pour tout membre candidat à l’élection au Conseil d’administration, qui en informe l’assemblée générale.
 
 Tout manquement aux obligations du présent article est susceptible de constituer une faute incompatible avec le mandat de membre du Conseil d’administration et entraîner la fin de celui-ci dans les conditions fixées à l’article 18.
 
@@ -151,7 +151,7 @@ Il ou elle peut déléguer ses pouvoirs à l’un des secrétaires adjoints ou l
 ## Article 25 – La trésorière / le trésorier
 La trésorière / le trésorier :
 * Tient les comptes de l’association ;
-* Effectue tout les paiements et perçoit toutes les recettes.
+* Effectue tous les paiements et perçoit toutes les recettes.
 
 Il ou elle peut déléguer ses pouvoirs à l’un des trésoriers adjoints ou l’une des trésorières adjointes ou, après avis conforme du Conseil d’administration, à l’un de ses membres.
 
@@ -202,9 +202,9 @@ L’Assemblée générale procède alors de droit à l’élection d’un nouvea
 Les antennes de l’association sont dirigées par le Conseil d’administration de l’association. Le Conseil d’administration peut déléguer certains de ses pouvoirs à l’antenne dans les conditions fixées par le règlement intérieur.
 
 ## Article 37 – Responsable d’antenne
-Le Conseil d’administration nomme pour chaque un antenne un responsable d’antenne, sur la proposition des membres actifs de celle-ci.
+Le Conseil d’administration nomme pour chaque antenne un responsable d’antenne, sur la proposition des membres actifs de celle-ci.
 
-Le Conseil peut à tout moment se faire rendre compte des responsabilités qu’il a confié et mettre fin à cette délégation.
+Le Conseil peut à tout moment se faire rendre compte des responsabilités qu’il a confiées et mettre fin à cette délégation.
 
 # Titre VII – Le règlement intérieur
 ## Article 38 – Champ d’application
@@ -220,11 +220,11 @@ Les sanctions sont prononcées par le président ou la présidente, sur avis du 
 Les sanctions possibles sont, par ordre croissant de gravité :
 * Le rappel à l’ordre oral, effectué par le président ou la présidente ;
 * Le rappel à l’ordre écrit, effectué par le président ou la présidente ;
-* La perte des mandats au bureau et au Conseil d’administration assortie d’une inégibilité d’une durée maximale de trois ans ;
+* La perte des mandats au bureau et au Conseil d’administration assortie d’une inéligibilité d’une durée maximale de trois ans ;
 * La suspension temporaire de toutes les fonctions et activités de l’association ;
 * La radiation définitive.
 
-Les sanctions autre que le rappel à l’ordre sont susceptibles d’appel devant une commission spécialement constituée, composée de six membres tirés au sort parmi les membres actifs à l’exclusion des membres du bureau. Le règlement intérieur fixe les modalités d’application du présent alinéa.
+Les sanctions autres que le rappel à l’ordre sont susceptibles d’appel devant une commission spécialement constituée, composée de six membres tirés au sort parmi les membres actifs à l’exclusion des membres du bureau. Le règlement intérieur fixe les modalités d’application du présent alinéa.
 
 Avant le prononcé d’une sanction, la formation de sanction invite les parties à présenter leurs observations et entend les membres à l’encontre desquelles est envisagé une sanction, qui bénéficient du droit d’être assistés d’un membre de leur choix.
 
@@ -241,4 +241,4 @@ Les actifs nets sont reversés à la Fédération Nationale de Protection Civile
 ## Article 43 – Dispositions transitoires
 La première approbation des présents statuts en 2023 entraîne de droit la dissolution du Conseil d’administration. L’Assemblée générale extraordinaire réunie pour l’approbation des statuts procède immédiatement à l’élection d’un nouveau Conseil d’administration, dans les conditions fixées par les présentes. Le mandat des nouveaux membres du Conseil d’administration ainsi élus prend fin à l’Assemblée générale ordinaire suivante.
 
-L’Assemblée générale extraordinaire étudie ensuite l’ordre du jour prévue pour les Assemblées générales ordinaires, à l’exception de l’élection des membres du Conseil d’administration.
+L’Assemblée générale extraordinaire étudie ensuite l’ordre du jour prévu pour les Assemblées générales ordinaires, à l’exception de l’élection des membres du Conseil d’administration.
