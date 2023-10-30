@@ -1,6 +1,8 @@
 # Titre I – Dispositions générales
 ## Article 1 – Raison sociale
-Il est fondé entre les personnes adhérentes aux présents statuts une association régie par la loi du 1er juillet 1901 ayant pour titre : « Association de Protection Civile de l’Isère », abrégé en « APC 38 ».
+Il est fondé entre les personnes adhérentes aux présents statuts une association régie par la loi du 1ᵉʳ juillet 1901 ayant pour titre : « Association de Protection Civile de l’Isère », abrégé en « APC 38 ».
+
+Le titre et le sigle font l'objet d'une protection juridique par la Fédération Nationale de Protection Civile qui autorise l'APC 38 à en faire usage durant son affiliation à la Fédération. 
 
 ## Article 2 – Objet
 L’association a pour objet de mettre en œuvre tous les moyens dont elle dispose en vue d’assurer la protection des populations civiles en temps de paix comme en temps de crise ou de guerre.
@@ -10,7 +12,12 @@ En étroite collaboration avec l’ensemble des pouvoirs publics, ainsi qu’ave
 * La réalisation des missions de sécurité civile définies par la réglementation (opérations de secours, actions de soutien aux populations sinistrées, encadrement des bénévoles lors des actions de soutien aux populations sinistrées, dispositifs prévisionnels de secours) ;
 * La réalisation d’actions solidaires et sociales ;
 * Et plus généralement toute mission correspondant à son objet.
-Ainsi, elle est susceptible de participer, à la demande des pouvoirs publics, des organismes publics ou privés, ou à son initiative, à toutes les opérations de secours, de couverture sanitaire ou d’aide humanitaire, tant sur le territoire national qu’à l’international.
+  
+Elle est susceptible de participer, à la demande des pouvoirs publics, des organismes publics ou privés, ou à son initiative, à toutes les opérations de secours, de couverture sanitaire ou d’aide humanitaire, tant sur le territoire national qu’à l’international.
+
+Elle peut notamment sensibiliser et former les élus locaux et les collectivités, notamment sur la gestion des risques de sécurité civile.
+
+À la demande de la Fédération Nationale de Protection Civile ou d'une Association de Protection Civile, elle peut étendre son action de secours ou d'aide humanitaire en dehors des limites de sa compétence territoriale. 
 
 ## Article 3 – Siège social
 Le siège social de l’association est fixé au 1, rue des Marronniers à Fontaine.
@@ -37,27 +44,33 @@ La qualité de membre de l’association se perd :
 
 # Titre II – Lien avec la Fédération Nationale de Protection Civile
 ## Article 7 – Affiliation à la Fédération Nationale de Protection Civile
-L’Association adhère à la Fédération Nationale de Protection Civile (ci-après « la Fédération ») et s’engage à ce titre, à respecter les statuts et règlement de la Fédération. L’Association régulièrement affiliée peut bénéficier d’un agrément pour la formation aux premiers secours, les postes de secours, les missions B, et autres domaines et/ou spécialités, sous réserve des dispositions du règlement intérieur de la Fédération et des textes réglementaires en vigueur.
+L’Association adhère à la Fédération Nationale de Protection Civile (ci-après « la Fédération ») et s’engage à ce titre, à respecter les statuts et règlement de la Fédération. 
+
+L’Association régulièrement affiliée peut bénéficier d’un agrément pour la formation aux premiers secours, et les missions de premiers secours, sous réserve des dispositions du règlement intérieur de la Fédération et des textes réglementaires en vigueur.
 
 ## Article 8 – Obligations de l’Association
 L’Association adresse à la fédération le compte rendu de ses assemblées générales, compte d’exploitation, résultats des exercices et bilans et, d’une façon générale, tous les renseignements sur son activité (rapport moral et d’activités, composition du conseil d’administration).
+
 Elle fait parvenir annuellement le nombre et le type de formations réalisées dans son ressort.
+
 L’Association verse à la Fédération une cotisation pour chacun de ses adhérents, dont le nombre doit être annuellement fourni à la Fédération avant le 31 décembre. Le montant de cette cotisation est fixé chaque année par l’Assemblée Générale de la Fédération
 
 ## Article 9 – Perte de la qualité de membre de la Fédération
 L’Association peut perdre sa qualité de membre de la Fédération en faisant l’objet d’une radiation pour motifs graves et notamment, refus caractérisé de contribuer au fonctionnement de la Fédération et de respecter les règles définissant les liens entre la Fédération et ses Associations (non paiement des cotisations réclamées, défaut d’envoi des rapports moraux et d’activités, bilans financiers et comptes-rendus d’assemblée générale) ou défaut de fonctionnement constaté (défaut de réunion du conseil d’administration ou d’assemblée générale, activités inexistantes…) ou encore par fonctionnement non conforme aux diverses obligations juridiques applicables aux associations.
 
 ## Article 10 – Intervention de la Fédération dans le fonctionnement de l’Association
-Si la Fédération constate un dysfonctionnement grave au sein de l’Association, elle peut désigner un conseiller et/ou médiateur en vue d’apporter des améliorations dans le fonctionnement de l’Association.
+La décision de radiation est prise par vote de l'assemblée générale de la Fédération statuant à la majorité des membres résents ou représentés, sur proposition du Comité directeur. Le président de l'Association est préalablement appelé à fournir ses explications, après avoir été régulièrement convoqué.
 
-L’Association peut également demander à la Fédération la désignation d’un conseiller et/ou médiateur afin de l’aider à régler un problème important, à la demande du président ou de la présidente ou de trois membres du Conseil d’administration.
+Si le Comité directeur de la Fédération constate un dysfonctionnement grave au sein de l'Association, il peut désigner un conseiller médiateur en vue d'apporter des améliorations dans le fonctionnement de l'Association. L'Association peut également demander à la Fédération la désignation d’un conseiller et/ou d’un médiateur afin de l’aider à régler un problème important.
 
-En cas de défaillance grave d’administration de l’Association, la Fédération peut nommer un administrateur ou une administratrice provisoire. Il ou elle a compétence pour convoquer un Conseil d’administration ou une Assemblée générale. Il ou elle préside alors ces instances. Il ou elle est également compétente pour gérer les affaires courantes de l’association.
-
-Son mandat cesse à la demande de la Fédération.
+En cas de défaillance grave d’administration de l'Association, la Fédération peut nommer un administrateur provisoire. A ce titre, l’administrateur provisoire a compétence pour convoquer un Conseil d’administration (ou comité directeur) ou une Assemblée générale. Il préside alors ces instances et nomme, parmi les membres présents, un secrétaire et un secrétaire adjoint. Cet administrateur provisoire est également compétent pour gérer les affaires courantes de l’Association. Son mandat cesse à la demande du Président de la Fédération.
 
 ## Article 11 – Rupture de l’affiliation à la Fédération
-La rupture de l’affiliation à la Fédération est décidée par l’Assemblée générale, après avis conforme de la Fédération.
+Si l'Association ne souhaite ne plus être rattachée à la Fédération, elle doit en décider après réunion d'une Assemblée générale extraordinaire convoquée dans les formes de droit et après avis conforme de la Fédération.
+
+Le Préfet du département du siège social de l'Association sera immédiatement avisé de cette décision en vue du retrait de l'agrément et de l'affiliation.
+
+L'Association devra restituer à la Fédération tous les actifs qui, éventuellement, auraient pu lui être fournis. 
 
 # Titre III – Le Conseil d’administration
 ## Article 12 – Pouvoirs
@@ -120,14 +133,18 @@ Tout manquement aux obligations du présent article est susceptible de constitue
 Le bureau organise les travaux du Conseil d’administration.
 
 ## Article 21 – Élection
-Le bureau est élu par le Conseil d’administration parmi ses membres pour la durée du mandat du Conseil d’administration. Chaque poste fait l’objet d’un scrutin uninominal majoritaire à un tour.
+Le bureau est élu par le Conseil d’administration parmi ses membres. Une nouvelle élection du bureau est organisée à chaque élection du Conseil d'administration.
+
+Chaque poste fait l’objet d’un scrutin uninominal majoritaire à un tour.
 
 Une élection du bureau a lieu de droit lorsqu’un des postes devient vacant.
 
 Le Conseil d’administration peut mettre fin aux fonctions du bureau sur décision de la majorité de ses membres.
 
 ## Article 22 – Composition
-Le bureau est constitué d’un président ou d’une présidente, d’un trésorier ou d’une trésorière et d’un secrétaire ou d’une secrétaire. Le Conseil d’administration peut y adjoindre des vice-présidents ou vice-présidentes, trésoriers ou trésorières adjointes et secrétaires adjoints.
+Le bureau est constitué d’un président ou d’une présidente, d’un trésorier ou d’une trésorière et d’un secrétaire ou d’une secrétaire. 
+
+Le Conseil d’administration peut décider à tout moment d'y adjoindre des vice-présidents ou vice-présidentes, trésoriers ou trésorières adjointes et secrétaires adjoints. Ils sont élus dans les conditions prévues à l'article 21.
 
 ## Article 23 – La présidente / le président
 La présidente / le président :
@@ -196,7 +213,7 @@ L’Assemblée générale procède alors de droit à l’élection d’un nouvea
 
 # Titre VI – Antennes
 ## Article 35 – Création d’une antenne
-À la demande d’au moins quatre membres actifs d’un même secteur géographique, l’Assemblée générale peut décider de la création d’une antenne nommée « APC 38 – Antenne de <nom du secteur géographique> ».
+À la demande d’au moins quatre membres actifs d’un même secteur géographique, l’Assemblée générale peut décider, sur proposition du Conseil d'administration, de la création d’une antenne nommée « APC 38 – Antenne de <nom du secteur géographique> ».
 
 ## Article 36 – Direction des antennes
 Les antennes de l’association sont dirigées par le Conseil d’administration de l’association. Le Conseil d’administration peut déléguer certains de ses pouvoirs à l’antenne dans les conditions fixées par le règlement intérieur.
@@ -218,7 +235,6 @@ Le règlement intérieur est fixé par le Conseil d’administration. Les modifi
 Les sanctions sont prononcées par le président ou la présidente, sur avis du bureau.
 
 Les sanctions possibles sont, par ordre croissant de gravité :
-* Le rappel à l’ordre oral, effectué par le président ou la présidente ;
 * Le rappel à l’ordre écrit, effectué par le président ou la présidente ;
 * La perte des mandats au bureau et au Conseil d’administration assortie d’une inéligibilité d’une durée maximale de trois ans ;
 * La suspension temporaire de toutes les fonctions et activités de l’association ;
@@ -232,7 +248,7 @@ Avant le prononcé d’une sanction, la formation de sanction invite les parties
 Les présents statuts peuvent être modifiés par l’Assemblée générale ordinaire ou par une Assemblée générale extraordinaire spécialement convoquée à cet effet. La modification des statuts doit être approuvée par la Fédération Nationale de Protection Civile préalablement à la convocation de l’Assemblée générale.
 
 ## Article 42 – Dissolution de l’association
-La dissolution de l’association est prononcée par l’Assemblée générale ordinaire ou par une Assemblée générale extraordinaire spécialement convoquée à cet effet.
+La dissolution de l’association est prononcée par une Assemblée générale extraordinaire spécialement convoquée à cet effet après avis conforme de la Fédération.
 
 L’Assemblée générale désigne un ou plusieurs liquidateurs en charge de la liquidation des biens de l’association.
 
